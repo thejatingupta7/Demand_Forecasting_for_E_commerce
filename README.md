@@ -66,13 +66,13 @@ venv\Scripts\activate</code></pre>
 
 <ol>
   <li><strong>Data Preprocessing:</strong><br>Run the data preprocessing script to clean and prepare the data.
-    <pre><code>data_preprocessing.ipynb</code></pre>
+    <pre><code>notebooks/data_preprocessing.ipynb</code></pre>
   </li>
   <li><strong>EDA.ipynb:</strong><br>Visulize the data to understand it and find trends.
-    <pre><code>EDA.ipynb</code></pre>
+    <pre><code>notebooks/EDA.ipynb</code></pre>
   </li>
   <li><strong>Model Training:</strong><br>Train the various time series models.
-    <pre><code>modelling.ipynb</code></pre>
+    <pre><code>notebooks/modelling.ipynb</code></pre>
   </li>
 </ol>
 
